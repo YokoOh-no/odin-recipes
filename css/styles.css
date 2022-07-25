@@ -1,3 +1,14 @@
 body {
-    background: steelblue;
-}
+    background: steelblue;  
+        }
+.recipe-main {font-size: 20px;
+    color:black; 
+        font-family: sans-serif;
+        font-style: oblique;
+        font-weight: 600;
+        }
+   .title {
+        color:coral;
+        font-size: 72px;
+        font-family: cursive ; 
+   }     
