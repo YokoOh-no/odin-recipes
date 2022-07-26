@@ -1,32 +1,33 @@
 body {background:rgb(229,142,108);
     padding: 10px; 
+    font-size: 24px;
+        font-family: 'Times New Roman', Times, serif;
 }
-
 h1.recipe {
         background-color:rgb(216,142,88);
         opacity: 0.80;
         padding: inherit;
-        border: 1px solid
-
+        border: 1px solid;
+        
     }
 h2.ingredients {
         background-color:rgb(202,142,68);
         opacity: 0.80;
         padding: inherit;
-        border: 1px solid
+        border: 1px solid;
 }
 h2.instructions {
         background-color:rgb(184,183,30) ;
         opacity: 0.80;
         padding: inherit;
-        border: 1px solid
+        border: 1px solid;
 
 }
 .top {
         background-color: rgb(193,223,31);
         opacity: 0.80;
         padding: inherit;
-        border: 1px solid
+        border: 1px solid;
 
     }
 .pic {
