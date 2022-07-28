@@ -1,8 +1,6 @@
 body {
     background: teal;
     border: 125px;
-    border-color: silver;
-
 }
 .recipe-link {
         font-size: 24px;
@@ -22,10 +20,4 @@ body {
         font-size: 72px;
         font-family:Verdana, Geneva, Tahoma, sans-serif; 
         text-align: center;
-}
-img:first-child {
-        margin-left: 150px;
-
-
-
 }
