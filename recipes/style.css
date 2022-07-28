@@ -1,7 +1,9 @@
 body {background:rgb(229,142,108);
-        padding: 10px; 
         font-size: 24px;
         font-family: Georgia, 'Times New Roman', Times, serif;
+}
+p.subtitle {
+        text-align: center;
 }
 h1.top {
         background-color:teal;
@@ -17,7 +19,7 @@ h2.ingredients {
         border: 1px solid;
         text-align: center;
         width: 500px;
-        margin-left: 450px;
+        margin-left: 750px;
 }
 h2.instructions {
         background-color:teal;
@@ -26,7 +28,7 @@ h2.instructions {
         border: 1px solid;
         text-align: center;
         width: 500px;
-        margin-left: 450px;
+        margin-left: 750px;
 }
 .top {
         background-color: teal;
@@ -40,6 +42,6 @@ img {
         margin-bottom: 30px;
         border: 5px solid 
         border-color teal;
-        margin-left: 650px
+        margin-left: 700px;
 }
 
