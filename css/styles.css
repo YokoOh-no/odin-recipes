@@ -1,22 +1,30 @@
 body {
-    background: steelblue;  
+    background: teal;  
         }
         
 .recipe-link {
         font-size: 24px;
         font-family: 'Times New Roman', Times, serif;
-}
+       margin-left: 600px;
 }
 .recipe-link:link {
         color:lightcoral;
 
 }
 .recipe-link:visited {
-        color:red;
+        color:coral;
 
 }
 .title {
         color:coral;
         font-size: 72px;
-        font-family: cursive ; 
-   } 
+        font-family:Verdana, Geneva, Tahoma, sans-serif; 
+        text-align: center;
+} 
+.home-image {
+        display: inline-flex;
+        margin-left: 550
+        border: 2px solid coral;
+        height: 300px;
+        width: 300px;
+}
