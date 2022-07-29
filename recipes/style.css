@@ -29,19 +29,3 @@ h2.instructions {
         margin: auto;
         padding: 20px;
 }
-.top {
-        background-color: teal;
-        opacity: 0.80;
-        padding: inherit;
-        border: 1px solid;
-        text-align: center;
-        padding: 20px;
-
-    }
-img {
-        margin-bottom: 30px;
-        border: 5px solid 
-        border-color teal;
-        margin: auto;
-}
-
